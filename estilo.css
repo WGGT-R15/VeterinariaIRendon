@@ -10,7 +10,7 @@ html{
 }
 
 body{
-  background-image: url("/imagenes/photo-1553688738-a278b9f063e0.webp");
+  background-image: url("imagenes/photo-1553688738-a278b9f063e0.webp");
   background-repeat: no-repeat;
   background-color: rgb(189, 192, 255);
 }
